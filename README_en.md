@@ -54,6 +54,7 @@ Output: a single `.html` file – no server needed.
 - **Routes:** Each hero has a unique color; static paths + glowing live trail.
 - **Controls:** Play/pause, slider scrubbing, current day / MP display.
 
+![Data-Fusion-Contest-2026-Heroes](Data-Fusion-Contest-2026-Heroes.png)
 ---
 
 ## 🎨 Node States
